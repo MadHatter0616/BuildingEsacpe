@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+
+##########################
+# Unreal Generated Files #
+##########################
+*/Binaries
+*/Intermediate
+*/Saved
+*/Build
+*/DerivedDataCache
+*/Content/StarterContent
+
+#################### 
+# VGenerated Files #
+####################
+*.VC.db
