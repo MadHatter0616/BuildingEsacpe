@@ -46,3 +46,5 @@
 # VGenerated Files #
 ####################
 *.VC.db
+*.ipch
+*/ipch
